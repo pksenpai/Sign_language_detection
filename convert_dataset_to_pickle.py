@@ -1,4 +1,4 @@
-""" [2]: convert your images dataset to binary pickle file """
+""" [2]: convert your images of dataset to binary pickle file """
 import os
 import pickle
 
