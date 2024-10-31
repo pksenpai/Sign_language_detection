@@ -21,7 +21,7 @@
 5. Finally, run `model.py` to enjoy it! :3
 
 > [!TIP]
-> In the following dictionary in ‍‍`model.py` file, you can specify a name for each class:
+> In the following dictionary in ‍‍`model.py`, you can specify a name for each class:
 > ```py
 > labels_dict = {0: 'Win', 1: 'Luck', 2: 'Perfect'}
 > ```
