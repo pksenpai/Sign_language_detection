@@ -1,6 +1,6 @@
 # Sign Language Detection
  - Speak to your computer with your custom sign language!
- - Using Random Forest ML algorithm.
+ - Using Random Forest ML algorithm & mediapipe library.
 
 
 <img src="test_model2.gif" width="600" height="550">
