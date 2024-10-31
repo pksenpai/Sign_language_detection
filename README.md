@@ -3,7 +3,7 @@
  - Using Random Forest ML algorithm.
 
 
-<img src="test_model.gif">
+<img src="test_model2.gif">
 
 ---------------------------------------------------------------------------
 ## how to use?
