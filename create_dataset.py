@@ -1,4 +1,4 @@
-""" [1]: create custome dataset with your hand images """
+""" [1]: create custom dataset with your hand images """
 import os
 import cv2
 
